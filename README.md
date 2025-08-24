@@ -1,4 +1,4 @@
-# Scott-Reef-GPM-Base-Case-forward-stratigraphic-model
+# Scott Reef carbonate platform evolution
 
 Scott Reef Base Case Forward Stratigraphic Model – README
 Description
