@@ -1,0 +1,510 @@
+{
+  "VERSION": "2.0.0.0",
+  "SCHEMA_VERSION": "1.0.0.0",
+  "NO_VALUE": 1E-12,
+  "ARRAY_2D": [
+    {
+      "NAME": "Coralgal1 geotime growth scaling",
+      "VALUES": [
+        [
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          2.0,
+          2.0,
+          2.0
+        ],
+        [
+          -2000000.0,
+          -1949135.75,
+          -1918162.0,
+          -1838137.38,
+          -1694492.5,
+          -1508684.13,
+          -1350615.5,
+          -1139704.0,
+          -894467.3,
+          -768474.1,
+          -545736.1,
+          -365745.875,
+          -246502.313,
+          -150000.0,
+          -50000.0,
+          -20000.0,
+          0.0
+        ]
+      ],
+      "Guid": "://+1__SubjectsDataSource/+1__71eea5d1-27a8-479c-9fcc-6c74af996446"
+    },
+    {
+      "NAME": "Coralgal1_shallow reef 0 - 10m_boundstone",
+      "VALUES": [
+        [
+          1.0,
+          1.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          5.0,
+          10.0,
+          11.0
+        ]
+      ],
+      "Guid": "://1d9a2dd1-dd1d-4676-a92e-6057e64d33c2/4b68dcdb-5747-41b6-8738-67194c8a18b6"
+    },
+    {
+      "NAME": "Coralgal2_intermediate reef_10 - 30m_boundstone",
+      "VALUES": [
+        [
+          0.0,
+          0.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          9.0,
+          10.0,
+          15.0,
+          20.0,
+          21.0,
+          30.0,
+          31.0
+        ]
+      ],
+      "Guid": "://1d9a2dd1-dd1d-4676-a92e-6057e64d33c2/71a78bb6-6896-43c4-bdfd-542927b68335"
+    },
+    {
+      "NAME": "Coralgal3_deep reef_30 - 60m_boundstone",
+      "VALUES": [
+        [
+          0.0,
+          0.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          1.0,
+          0.0
+        ],
+        [
+          0.0,
+          19.0,
+          20.0,
+          30.0,
+          40.0,
+          50.0,
+          51.0,
+          60.0,
+          61.0
+        ]
+      ],
+      "Guid": "://1d9a2dd1-dd1d-4676-a92e-6057e64d33c2/2e745b5e-3674-4820-85ef-03a859e9dca1"
+    },
+    {
+      "NAME": "Carb2_lagoon_shoal<30m",
+      "VALUES": [
+        [
+          0.0,
+          0.1,
+          0.3,
+          0.4,
+          0.6,
+          0.8,
+          1.0,
+          1.0,
+          1.0,
+          0.3,
+          0.2,
+          0.0
+        ],
+        [
+          0.0,
+          4.0,
+          8.0,
+          10.0,
+          15.0,
+          20.0,
+          30.0,
+          40.0,
+          50.0,
+          63.3667221,
+          72.80614,
+          110.0
+        ]
+      ],
+      "Guid": "://1d9a2dd1-dd1d-4676-a92e-6057e64d33c2/12ca59fb-1d45-4a2b-8bdc-4921438661a9"
+    },
+    {
+      "NAME": "Carb3_slope<200m",
+      "VALUES": [
+        [
+          0.0,
+          0.01,
+          0.03,
+          0.06,
+          0.1,
+          0.15,
+          0.21,
+          0.28,
+          0.36,
+          0.45,
+          0.55,
+          0.65,
+          0.75,
+          0.85,
+          1.0,
+          1.0,
+          1.0,
+          0.8,
+          0.725,
+          0.675,
+          0.625,
+          0.575,
+          0.5,
+          0.425,
+          0.35,
+          0.275,
+          0.225,
+          0.175,
+          0.15,
+          0.125,
+          0.1,
+          0.08,
+          0.06,
+          0.045,
+          0.03,
+          0.02,
+          0.01
+        ],
+        [
+          0.0,
+          1.0,
+          2.0,
+          3.0,
+          4.0,
+          5.0,
+          6.0,
+          7.0,
+          8.0,
+          9.0,
+          10.0,
+          12.0,
+          14.0,
+          16.0,
+          18.0,
+          20.0,
+          25.0,
+          30.0,
+          35.0,
+          40.0,
+          45.0,
+          50.0,
+          60.0,
+          70.0,
+          80.0,
+          90.0,
+          100.0,
+          110.0,
+          120.0,
+          130.0,
+          140.0,
+          150.0,
+          160.0,
+          170.0,
+          180.0,
+          190.0,
+          200.0
+        ]
+      ],
+      "Guid": "://1d9a2dd1-dd1d-4676-a92e-6057e64d33c2/8d2535d0-8b82-4efc-98c5-bf7fdac3b943"
+    },
+    {
+      "NAME": "Carb4_basin_mudstone>80m",
+      "VALUES": [
+        [
+          0.0,
+          0.0,
+          0.0001,
+          0.0005,
+          0.0015,
+          0.004,
+          0.008,
+          0.015,
+          0.03,
+          0.95,
+          0.975,
+          0.99,
+          0.995,
+          0.997,
+          0.998,
+          0.9985,
+          0.9988,
+          0.5,
+          0.5,
+          0.3,
+          0.3,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1,
+          0.1
+        ],
+        [
+          0.0,
+          10.0,
+          20.0,
+          30.0,
+          40.0,
+          50.0,
+          60.0,
+          70.0,
+          75.0,
+          80.0,
+          85.0,
+          90.0,
+          95.0,
+          100.0,
+          110.0,
+          120.0,
+          130.0,
+          140.0,
+          150.0,
+          160.0,
+          170.0,
+          180.0,
+          190.0,
+          200.0,
+          250.0,
+          300.0,
+          350.0,
+          400.0,
+          450.0,
+          500.0
+        ]
+      ],
+      "Guid": "://1d9a2dd1-dd1d-4676-a92e-6057e64d33c2/4b005b34-3a84-4aaf-980f-a3e4e3dfa373"
+    },
+    {
+      "NAME": "Limestone_basement/karst",
+      "VALUES": [
+        [
+          1.0,
+          1.0,
+          0.0
+        ],
+        [
+          -100.0,
+          -1.0,
+          0.0
+        ]
+      ],
+      "Guid": "://1d9a2dd1-dd1d-4676-a92e-6057e64d33c2/5e393d50-e01b-46c3-be30-abe68b5ee27d"
+    }
+  ],
+  "SED_SOURCE": [
+    {
+      "SEDIMENT_ID": "://SedimentDataSource/b20e4296-6923-4c14-aec6-971c1f327b66",
+      "PARAMETERS": {
+        "AreaGrowthScale": 1.0,
+        "GeotimeGrowthScale": "/ARRAY_2D/0",
+        "MaxCarbonateGrowthRate": 3.9,
+        "WavePowerCombination": "Multiplicative",
+        "UseWavePowerFunction": false,
+        "HalfGrowthRateWavePower": 0.2,
+        "WavePowerDecreasing": false,
+        "RelativeWeightOfWaveDependentGrowth": 0.4,
+        "DepthCombination": "Multiplicative",
+        "UseDepthFunction": true,
+        "DepthFunc": "/ARRAY_2D/1",
+        "HalfGrowthRateDepth": 0.9,
+        "DepthPowerDecreasing": false,
+        "RelativeWeightOfDepthDependentGrowth": 0.5,
+        "SedimentCombination": "Multiplicative",
+        "UseSedFunction": false,
+        "HalfGrowthRateSed": 0.3,
+        "SedDecreasing": true,
+        "RelativeWeightOfSedDependentGrowth": 0.1
+      }
+    },
+    {
+      "SEDIMENT_ID": "://SedimentDataSource/59775b9a-b955-4790-b44a-a9d6fcb1c0d9",
+      "PARAMETERS": {
+        "AreaGrowthScale": 1.0,
+        "GeotimeGrowthScale": 1.0,
+        "MaxCarbonateGrowthRate": 3.2,
+        "WavePowerCombination": "Multiplicative",
+        "UseWavePowerFunction": false,
+        "HalfGrowthRateWavePower": 0.2,
+        "WavePowerDecreasing": true,
+        "RelativeWeightOfWaveDependentGrowth": 0.4,
+        "DepthCombination": "Multiplicative",
+        "UseDepthFunction": true,
+        "DepthFunc": "/ARRAY_2D/2",
+        "HalfGrowthRateDepth": 0.0,
+        "DepthPowerDecreasing": false,
+        "RelativeWeightOfDepthDependentGrowth": 0.5,
+        "SedimentCombination": "Multiplicative",
+        "UseSedFunction": false,
+        "HalfGrowthRateSed": 0.3,
+        "SedDecreasing": true,
+        "RelativeWeightOfSedDependentGrowth": 0.1
+      }
+    },
+    {
+      "SEDIMENT_ID": "://SedimentDataSource/a50c9b6d-69ca-4ac9-a439-0030536ad0d4",
+      "PARAMETERS": {
+        "AreaGrowthScale": 1.0,
+        "GeotimeGrowthScale": 1.0,
+        "MaxCarbonateGrowthRate": 2.5,
+        "WavePowerCombination": "Multiplicative",
+        "UseWavePowerFunction": false,
+        "HalfGrowthRateWavePower": 0.2,
+        "WavePowerDecreasing": true,
+        "RelativeWeightOfWaveDependentGrowth": 0.4,
+        "DepthCombination": "Multiplicative",
+        "UseDepthFunction": true,
+        "DepthFunc": "/ARRAY_2D/3",
+        "HalfGrowthRateDepth": 0.0,
+        "DepthPowerDecreasing": false,
+        "RelativeWeightOfDepthDependentGrowth": 0.5,
+        "SedimentCombination": "Multiplicative",
+        "UseSedFunction": false,
+        "HalfGrowthRateSed": 0.2,
+        "SedDecreasing": true,
+        "RelativeWeightOfSedDependentGrowth": 0.1
+      }
+    },
+    {
+      "SEDIMENT_ID": "://SedimentDataSource/ca133f93-148c-4e2e-b9af-dafaa40aa9d9",
+      "PARAMETERS": {
+        "AreaGrowthScale": 1.0,
+        "GeotimeGrowthScale": 1.0,
+        "MaxCarbonateGrowthRate": 1.0,
+        "WavePowerCombination": "Multiplicative",
+        "UseWavePowerFunction": false,
+        "HalfGrowthRateWavePower": 0.05,
+        "WavePowerDecreasing": true,
+        "RelativeWeightOfWaveDependentGrowth": 0.5,
+        "DepthCombination": "Additive",
+        "UseDepthFunction": true,
+        "DepthFunc": "/ARRAY_2D/4",
+        "HalfGrowthRateDepth": 0.0,
+        "DepthPowerDecreasing": false,
+        "RelativeWeightOfDepthDependentGrowth": 0.5,
+        "SedimentCombination": "Additive",
+        "UseSedFunction": false,
+        "HalfGrowthRateSed": 0.0,
+        "SedDecreasing": false,
+        "RelativeWeightOfSedDependentGrowth": 0.0
+      }
+    },
+    {
+      "SEDIMENT_ID": "://SedimentDataSource/95b57f49-8447-4f38-8c24-d246c2f0d55b",
+      "PARAMETERS": {
+        "AreaGrowthScale": 1.0,
+        "GeotimeGrowthScale": 1.0,
+        "MaxCarbonateGrowthRate": 0.5,
+        "WavePowerCombination": "Additive",
+        "UseWavePowerFunction": false,
+        "HalfGrowthRateWavePower": 0.0,
+        "WavePowerDecreasing": false,
+        "RelativeWeightOfWaveDependentGrowth": 0.0,
+        "DepthCombination": "Additive",
+        "UseDepthFunction": true,
+        "DepthFunc": "/ARRAY_2D/5",
+        "HalfGrowthRateDepth": 0.0,
+        "DepthPowerDecreasing": false,
+        "RelativeWeightOfDepthDependentGrowth": 1.0,
+        "SedimentCombination": "Additive",
+        "UseSedFunction": false,
+        "HalfGrowthRateSed": 0.0,
+        "SedDecreasing": false,
+        "RelativeWeightOfSedDependentGrowth": 0.0
+      }
+    },
+    {
+      "SEDIMENT_ID": "://SedimentDataSource/31e19ae9-879d-4162-bc4c-4df6c404cd5f",
+      "PARAMETERS": {
+        "AreaGrowthScale": 1.0,
+        "GeotimeGrowthScale": 1.0,
+        "MaxCarbonateGrowthRate": 0.1,
+        "WavePowerCombination": "Multiplicative",
+        "UseWavePowerFunction": false,
+        "HalfGrowthRateWavePower": 0.001,
+        "WavePowerDecreasing": true,
+        "RelativeWeightOfWaveDependentGrowth": 0.1,
+        "DepthCombination": "Additive",
+        "UseDepthFunction": true,
+        "DepthFunc": "/ARRAY_2D/6",
+        "HalfGrowthRateDepth": 0.0,
+        "DepthPowerDecreasing": false,
+        "RelativeWeightOfDepthDependentGrowth": 0.9,
+        "SedimentCombination": "Additive",
+        "UseSedFunction": false,
+        "HalfGrowthRateSed": 0.0,
+        "SedDecreasing": false,
+        "RelativeWeightOfSedDependentGrowth": 0.0
+      }
+    },
+    {
+      "SEDIMENT_ID": "://SedimentDataSource/2d72b2c1-9667-4f55-9fb8-4dc1335a830c",
+      "PARAMETERS": {
+        "AreaGrowthScale": 1.0,
+        "GeotimeGrowthScale": 1.0,
+        "MaxCarbonateGrowthRate": 0.0001,
+        "WavePowerCombination": "Additive",
+        "UseWavePowerFunction": false,
+        "HalfGrowthRateWavePower": 0.0,
+        "WavePowerDecreasing": false,
+        "RelativeWeightOfWaveDependentGrowth": 0.0,
+        "DepthCombination": "Additive",
+        "UseDepthFunction": true,
+        "DepthFunc": "/ARRAY_2D/7",
+        "HalfGrowthRateDepth": 0.0,
+        "DepthPowerDecreasing": false,
+        "RelativeWeightOfDepthDependentGrowth": 1.0,
+        "SedimentCombination": "Additive",
+        "UseSedFunction": false,
+        "HalfGrowthRateSed": 0.0,
+        "SedDecreasing": false,
+        "RelativeWeightOfSedDependentGrowth": 0.0
+      }
+    }
+  ],
+  "PARAMETERS": {
+    "OutputInsitu": true,
+    "OutputSuspendedSedColumn": true,
+    "SedimentsSource": [
+      "/SED_SOURCE/0",
+      "/SED_SOURCE/1",
+      "/SED_SOURCE/2",
+      "/SED_SOURCE/3",
+      "/SED_SOURCE/4",
+      "/SED_SOURCE/5",
+      "/SED_SOURCE/6"
+    ]
+  }
+}

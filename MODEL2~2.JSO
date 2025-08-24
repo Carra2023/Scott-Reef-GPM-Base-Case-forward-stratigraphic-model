@@ -1,0 +1,10 @@
+{ 
+"PLUGINS_FOLDER": "C:\\Program Files\\Schlumberger\\Petrel 2022\\Extensions\\GPM_1.1.10.202212011\\Plugins",
+"PLUGINS_MAP":[
+    ["True","DiffusionProcess","INTERNAL","Model2_1_2Ma_SWwavefield5km_combinedsubsidencemap_pulsed_2Dc01b7fe7-99e3-42ab-a58b-9dd9ae377cceDiffusionProcess.json"],
+    ["True","CompactionProcess","INTERNAL","Model2_1_2Ma_SWwavefield5km_combinedsubsidencemap_pulsed_2Dc01b7fe7-99e3-42ab-a58b-9dd9ae377cceCompactionProcess.json"],
+    ["True","TectonicsProcess","INTERNAL","Model2_1_2Ma_SWwavefield5km_combinedsubsidencemap_pulsed_2Dc01b7fe7-99e3-42ab-a58b-9dd9ae377cceTectonicsProcess.json"],
+    ["True","CarbonatesProcess","INTERNAL","Model2_1_2Ma_SWwavefield5km_combinedsubsidencemap_pulsed_2Dc01b7fe7-99e3-42ab-a58b-9dd9ae377cceCarbonatesProcess.json"],
+    ["True","WavesProcess","INTERNAL","Model2_1_2Ma_SWwavefield5km_combinedsubsidencemap_pulsed_2Dc01b7fe7-99e3-42ab-a58b-9dd9ae377cceWavesProcess.json"]
+]
+}

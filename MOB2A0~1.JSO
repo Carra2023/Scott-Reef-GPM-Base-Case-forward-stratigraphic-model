@@ -1,0 +1,101 @@
+{
+  "VERSION": "2.0.0.0",
+  "SCHEMA_VERSION": "1.0.0.0",
+  "NO_VALUE": 1E-12,
+  "ARRAY_2D": [
+    {
+      "NAME": "Copy of (1) SW wavefield 5km amp1",
+      "VALUES": [
+        [
+          0.776,
+          0.776,
+          0.776
+        ],
+        [
+          -1E+13,
+          -1E+12,
+          0.0
+        ]
+      ],
+      "Guid": "://+1__SubjectsDataSource/+1__04c518b6-110d-4150-aea6-58a52767df79"
+    },
+    {
+      "NAME": "SW wavefield 5km period",
+      "VALUES": [
+        [
+          2.0,
+          2.0,
+          2.0
+        ],
+        [
+          -1E+13,
+          -1E+11,
+          0.0
+        ]
+      ],
+      "Guid": "://+1__SubjectsDataSource/+1__15476dc3-6bf6-49fb-a954-47304644a5a5"
+    },
+    {
+      "NAME": "Copy (34) of SW wavefield 5km amp1",
+      "VALUES": [
+        [
+          0.776,
+          0.776,
+          0.776
+        ],
+        [
+          -1E+13,
+          -1E+12,
+          0.0
+        ]
+      ],
+      "Guid": "://+1__SubjectsDataSource/+1__dc48af1f-a966-41a4-8383-7f5631ee15c9"
+    },
+    {
+      "NAME": "SW wavefield 5km period",
+      "VALUES": [
+        [
+          2.0,
+          2.0,
+          2.0
+        ],
+        [
+          -1E+13,
+          -1E+11,
+          0.0
+        ]
+      ],
+      "Guid": "://+1__SubjectsDataSource/+1__1b1e0360-13ba-4635-89e0-71f995d634d5"
+    }
+  ],
+  "ID_SOURCE": [
+    {
+      "SOURCE_ID": "Left",
+      "PARAMETERS": {
+        "AmplitudeFunc": "/ARRAY_2D/0",
+        "PeriodFunc": "/ARRAY_2D/1"
+      }
+    },
+    {
+      "SOURCE_ID": "Right",
+      "PARAMETERS": {
+        "AmplitudeFunc": "/ARRAY_2D/2",
+        "PeriodFunc": "/ARRAY_2D/3"
+      }
+    }
+  ],
+  "PARAMETERS": {
+    "UseNewWavefrontPropagation": false,
+    "WaveEnergyTransport": true,
+    "WaveEnergyTransportCoeff": 1.0,
+    "LeftBoundaryOpen": false,
+    "RightBoundaryOpen": false,
+    "OutputTravelTime": true,
+    "OutputEnergyDissip": true,
+    "OutputWaveVelocity": true,
+    "WavesSource": [
+      "/ID_SOURCE/0",
+      "/ID_SOURCE/1"
+    ]
+  }
+}
