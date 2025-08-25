@@ -25,6 +25,8 @@ Petrel™ GPM project JSON and HDI5 files containing the base case model input d
 
 Input data (paleobathymetry, subsidence, eustatic sea-level curve, carbonate production functions, wave energy map)
 
+Excel Spreadsheets
+Two excel spreadsheets detailing our core observations and interpretations and hyperspectral-derived mineral logs that were used to guide our interpretations of the unconformities.
 
 Purpose
 
