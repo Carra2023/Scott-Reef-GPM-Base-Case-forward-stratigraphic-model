@@ -43,4 +43,4 @@ The model timestep resolution  is 1 kyr.
 Citation
 
 If you use this dataset, please cite:
-Williams, C. et al. (2023). Carbonate platform evolution in response to the Mid-Pleistocene Climate Transition on the North-West Shelf of Australia: Insights from forward stratigraphic modelling. [Manuscript / DOI once available]
+Williams, C. et al. (2025). Carbonate platform evolution in response to the Mid-Pleistocene Climate Transition on the North-West Shelf of Australia: Insights from forward stratigraphic modelling. [Manuscript / DOI once available]
